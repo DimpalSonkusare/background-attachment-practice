@@ -1,0 +1,78 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.main-block{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/main.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/1st.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img2{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/2nd.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img3{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/3rd.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img4{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/4th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img5{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/5th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img6{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/6th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img7{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/7th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img8{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/8th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.img9{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/9th.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
